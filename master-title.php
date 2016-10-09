@@ -9,7 +9,7 @@
 	
 if ( ! defined( 'ABSPATH' ) ) exit;
 		
-// Conferindo se o Sensei está ativo. Se não estiverem, desativar...
+// Conferindo se o Sensei está ativo. Se não estiver, desativar...
 include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 if( !is_plugin_active('woothemes-sensei/woothemes-sensei.php' ) ) {
 	// Ao menos um dos dois está inativo
