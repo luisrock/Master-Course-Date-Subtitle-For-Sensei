@@ -1,11 +1,17 @@
 === Master Course Date Subtitle (for Sensei) ===
 
 Contributors: Luis Rock
+
 Tags: course, sensei, subtitle
+
 Requires at least: 4.0
+
 Tested up to: 4.6
+
 Stable tag: trunk
+
 License: GPL v.3.0
+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 
