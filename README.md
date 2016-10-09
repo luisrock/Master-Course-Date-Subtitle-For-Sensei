@@ -14,7 +14,7 @@ Add "Updated in [date]" as a Sensei course subtitle, on the frontend, whenever a
 
 == Description ==
 
-Every time a lesson is posted (published), related course page will show a subtitle saying "Updated in [date]", with a link to the same lesson. You can customize the phrase ("Updated in...") . Course backend page will have a metabox, so you can manually insert another date to show.
+Every time a lesson is published (or updated, depending on the settings you choose), the related course page will show a subtitle saying "Updated in [date]", with a link to the same lesson. You can customize the phrase ("Updated in...") . Course backend page will have a metabox, so you can manually insert another date to show.
 
 
 == Installation ==
